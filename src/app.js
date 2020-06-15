@@ -4,10 +4,10 @@
 // };
 // console.log(perpangkatan(5));
 
-function perpangkatan(n) {
-  return n * n;
+function sayHello() {
+  alert("Hello");
 }
-console.log(perpangkatan(4));
+console.log(sayHello());
 
 const projectTitle = document.querySelector("#project-title");
 
