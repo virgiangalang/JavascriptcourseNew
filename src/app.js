@@ -6,11 +6,13 @@
 // console.log(sayHello());
 
 //ES6 Arrowfunction
-const perpangkatan = n => {
-  return n * n;
-};
+// const perpangkatan = n => {
+//   return n * n;
+// };
 
-console.log(perpangkatan(7));
+const perpangkatan = n => (n * 90) / 2;
+
+console.log(perpangkatan(69));
 // function perpangkatan(n) {
 //   return n * n;
 // }
