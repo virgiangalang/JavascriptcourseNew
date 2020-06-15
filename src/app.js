@@ -4,6 +4,11 @@
 // };
 // console.log(perpangkatan(5));
 
+function perpangkatan(n) {
+  return n * n;
+}
+console.log(perpangkatan(4));
+
 function sayHello() {
   alert("Hello");
 }
