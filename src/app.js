@@ -3,6 +3,7 @@
 //   return n * n;
 // };
 // console.log(perpangkatan(5));
+console.log(sayHello());
 
 function perpangkatan(n) {
   return n * n;
