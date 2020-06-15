@@ -3,17 +3,23 @@
 //   return n * n;
 // };
 // console.log(perpangkatan(5));
-console.log(sayHello());
+// console.log(sayHello());
 
-function perpangkatan(n) {
+//ES6 Arrowfunction
+const perpangkatan = n => {
   return n * n;
-}
-console.log(perpangkatan(4));
+};
 
-function sayHello() {
-  alert("Hello");
-}
-console.log(sayHello());
+console.log(perpangkatan(7));
+// function perpangkatan(n) {
+//   return n * n;
+// }
+// console.log(perpangkatan(4));
+
+// function sayHello() {
+//   alert("Hello");
+// }
+// console.log(sayHello());
 
 const projectTitle = document.querySelector("#project-title");
 
