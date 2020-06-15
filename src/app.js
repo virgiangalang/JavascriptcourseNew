@@ -1,7 +1,8 @@
-const perpangkatan = function(n){
-  return n * n
-}
-console.log(perpangkatan(5))
+//function definition
+const perpangkatan = function(n) {
+  return n * n;
+};
+console.log(perpangkatan(5));
 
 const projectTitle = document.querySelector("#project-title");
 
