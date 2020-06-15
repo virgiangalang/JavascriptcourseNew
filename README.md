@@ -1,2 +1,0 @@
-# JavascriptcourseNew
-Created with CodeSandbox
